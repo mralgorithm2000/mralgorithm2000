@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mralgorithm2000 (MohammadReza Aghajani)
+- 👋 Hi, I’m @mralgorithm2000
 - 👀 I’m interested in learn something new and programming 🙂
 - 🌱 I’m currently learning about linux administrator and webservices.
-- 📫 How to reach me : https://t.me/mr_Mmdrza_1400
 
 <!---
 mralgorithm2000/mralgorithm2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
